@@ -17,14 +17,6 @@ This repository covers several key programming challenges, including:
 
 ---
 
-### Prerequisites
-To run these programs, you need a C compiler installed on your system:
-* **GCC** (Recommended)
-* **Clang**
-* **MSVC** (for Windows users)
-
----
-
 ## 👨‍💻 Author
 
 **Harshit** * **GitHub**: [@harshit-137867](https://github.com/harshit-137867)
